@@ -1,7 +1,9 @@
 # CHARTER:
 
+## Objective:
+This "*VENTURE*" is hereby undertaken by HE Lord under the aegis of HM Overlord for establishing a livlihood.
+
 ## Scope:
-This "*VENTURE*" is hereby undertaken by Lord under the aegis of Overlord for establishing a Career.
 
 ## Goals:
 * Etablish an Enterprise
