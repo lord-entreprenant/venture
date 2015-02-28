@@ -8,7 +8,13 @@
 package venture.prod;
 
 public class ENTERPRISE {
+  
+  public ENTERPRISE(ENTREPRENEUR entreprenant) {
+  }
   public static void main(String[] args) {
+  } 
+  protected ENTREPRENEUR {
+    //....
   }
 }
 // EOF
